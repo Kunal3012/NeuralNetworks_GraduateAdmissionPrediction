@@ -46,7 +46,7 @@ The dataset comprises 500 samples with 8 columns. The Serial No. column is dropp
 ## 5. Exploratory Data Analysis (EDA):
 Descriptive statistics are utilized to analyze the range and distribution of features. A pair plot is generated to visualize relationships between different features, providing insights into potential correlations.
 
-![model training/epochs](URL)
+![eda](https://github.com/Kunal3012/NeuralNetworks_GraduateAdmissionPrediction/blob/main/pearplot.png)
 
 ## 6. Data Preprocessing:
 The data is split into features (X) and the target variable (y). A train-test split is performed, with 80% of the data used for training and 20% for testing. Standardization is applied to ensure consistent scaling of the features.
@@ -114,7 +114,7 @@ This table summarizes the evaluation metrics obtained after testing the model on
 
 ## 11. Loss Plot:
 
-![model training/epochs](URL)
+![model training/epochs](https://github.com/Kunal3012/NeuralNetworks_GraduateAdmissionPrediction/blob/main/download.png)
     
 A plot is generated to visualize the training and validation loss over the 205 epochs. This plot helps to understand the convergence and potential overfitting of the model.
 
