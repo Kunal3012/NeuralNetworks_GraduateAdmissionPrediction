@@ -1,5 +1,3 @@
-Certainly! I've incorporated the additional information about the dataset, including its data types, non-null counts, and descriptive statistics. Here's the updated report:
-
 # Graduate Admissions Prediction - Neural Networks
 
 ## 1. Introduction:
@@ -118,4 +116,4 @@ This table summarizes the evaluation metrics obtained after testing the model on
     
 A plot is generated to visualize the training and validation loss over the 205 epochs. This plot helps to understand the convergence and potential overfitting of the model.
 
-For a more detailed overview, including the code implementation, you can refer to the [Kaggle Notebook](https://www.kaggle.com/kunal30122002/neuralnetworks-mnistdigitclassification/edit).
+For a more detailed overview, including the code implementation, you can refer to the [Kaggle Notebook](https://www.kaggle.com/code/kunal30122002/neuralnetworks-graduateadmissionprediction).
