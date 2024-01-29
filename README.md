@@ -117,3 +117,5 @@ This table summarizes the evaluation metrics obtained after testing the model on
 A plot is generated to visualize the training and validation loss over the 205 epochs. This plot helps to understand the convergence and potential overfitting of the model.
 
 For a more detailed overview, including the code implementation, you can refer to the [Kaggle Notebook](https://www.kaggle.com/code/kunal30122002/neuralnetworks-graduateadmissionprediction).
+
+MIT License
